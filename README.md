@@ -36,5 +36,4 @@ Capomulin and Ramicane drug treatments both drastically decrease tumor volumes o
 - more information about time release of each drug regimen to decrease bias around which timepoint we select data to compare the drug regimen. As we saw in the line graph for 1 mouse under Capomulin treatment, there were time intervals at which the drug was decreasing the tumor volume and when the volume seemed to increase. We should take care not to compare drug regimens at the same timepoints if their time release are at different points.
 - weight of the mice had high correlation to the tumor volume. As such, more research should be done on the impact of weight and drug effectiveness like sampling more mice of the same weight group and conducting further tests of the desired drug treatment.
 
-# Acknowledgements #
-Besides the starter code, all other code was original. I used chatGPT and stack overflow for understanding general concepts and debugging. I received help from the TAs on dropping duplicate mouse data and the for loop used in the boxplot exercise.
+
